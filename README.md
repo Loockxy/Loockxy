@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Loockxy
-I'm a simple developper FiveM, Discord JS and Web<br/>
+I'm a simple developer FiveM, Discord JS and Web<br/>
 I'm student<br/>
 I have 16 years old<br/>
 I'm learning react js and vite js<br/>
