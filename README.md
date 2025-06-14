@@ -2,7 +2,7 @@
 I'm a simple developer FiveM, Discord JS and Web<br/>
 I'm a student<br/>
 I have 16 years old<br/>
-I'm learning vue js<br/>
+I'm learning vue, react and typescript<br/>
 I'm from France<br/>
 
 ## 🌐 Socials:
